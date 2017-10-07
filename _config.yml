@@ -1,0 +1,46 @@
+analytics:
+  google:
+    id: UA-100531691-1
+  piwik:
+    site_id: 1
+    api:
+      url: https://vps.irockbunny.com/analytics/?callback=?
+      token: 49060c859f85fcb74f80c751d233bcf3
+
+repository: BYR-Navi/BYR-Navi
+repository_url: https://github.com/BYR-Navi/BYR-Navi
+
+timezone: Asia/Shanghai
+lang: zh_CN
+
+title: 北邮人导航 · BYR-Navi
+alias: 北邮人导航
+description: A Navigation Website for BYR
+keywords: 北邮人导航, BYR-Navi, BYR, BUPT, Navi, Navigation
+url: http://byr-navi.com
+
+author: iROCKBUNNY
+author_url: http://irockbunny.com
+organization: TEELAB
+organization_url: http://teelab.net
+contact: contact[at]irockbunny[dot]com
+
+image: /images/logo.png
+logo: /images/logo.png
+logo_dark: /images/logo-dark.png
+logo_white: /images/logo-white.png
+
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+
+exclude:
+- .gitignore
+- .travis.yml
+- LICENSE
+- README.md
+- CNAME
+- Gemfile
+- Gemfile.lock
+- script
+- vendor
