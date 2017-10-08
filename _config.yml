@@ -9,22 +9,16 @@ alias: 歧点导航
 description: A Navigation Website for acusp.info
 keywords: 歧点导航, AC-Navi acusp, Navi, Navigation
 url: https://navi.acusp.info
+logo: /images/favicon.ico
 
 
-author: acusp
-author_url: https://acusp.info
-organization:
-organization_url:
-contact: acusp.xu[at]gmail.com[dot]com
+#author: acusp
+#author_url: https://acusp.info
+#organization:
+#organization_url:
+#contact: acusp.xu[at]gmail.com[dot]com
 
 
-image: /images/logo.png
-logo: /images/logo.png
-logo_dark: /images/logo-dark.png
-logo_white: /images/logo-white.png
-
-
-# Analytics settings
 # Baidu Analytics
 ba_track_id: ce472038c53a64826054bafc870d2d24
 # Google Analytics
