@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/BYR-Navi/BYR-Navi.svg)](https://travis-ci.org/BYR-Navi/BYR-Navi)
-[![Website](https://img.shields.io/website-up-down-green-red/http/byr-navi.com.svg)](http://byr-navi.com/)
-[![License](https://img.shields.io/github/license/BYR-Navi/BYR-Navi.svg)](/LICENSE)
+[![TeamCity CodeBetter](https://img.shields.io/teamcity/codebetter/bt428.svg?style=plastic)](https://github.com/acusp/AC-Navi)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=my-website&style=plastic)](https://navi.acusp.info)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)](/LICENSE)
 
 ---
 
