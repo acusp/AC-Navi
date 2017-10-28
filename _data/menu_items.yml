@@ -1,20 +1,13 @@
 - name: 歧点导航
   icon:
-    name: star
+    name: home icon
     color: yellow
   url: /
   active_key: home
 
-- name: 访客分析
+- name: 安全相关
   icon:
-    name: line chart
-    color: orange
-  url: /analytics/
-  active_key: analytics
-
-- name: 爱心投喂
-  icon:
-    name: coffee icon
-    color: brown
-  url: /donate/
-  active_key: donate
+    name: laptop icon
+    color: teal
+  url: /security/
+  active_key: security

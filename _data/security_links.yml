@@ -1,6 +1,6 @@
-- section: public
+- section: CTF
   categories:
-  - category: 购物
+  - category: community
     links:
     - name: 京东
       style: basic

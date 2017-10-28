@@ -1,4 +1,4 @@
-/* analytics.css */
+/* security.css */
 
 .hidden.menu {
     display: none;
@@ -30,7 +30,7 @@
 }
 
 .ui.vertical.stripe {
-    padding: 8em 0em;
+    padding: 2em 0em;
 }
 
 .ui.vertical.stripe h3 {
@@ -54,19 +54,13 @@
     margin: 3em 0em;
 }
 
-.ui.vertical.stripe .ui.statistic .label {
-    font-size: 1.2em;
-}
-
-.stats.stripe.segment,
 .quote.stripe.segment {
     padding: 0em;
 }
 
-.stats.stripe.segment .grid .column,
 .quote.stripe.segment .grid .column {
-    padding-top: 3em;
-    padding-bottom: 3em;
+    padding-top: 5em;
+    padding-bottom: 5em;
 }
 
 .footer.segment {
@@ -76,20 +70,6 @@
 .secondary.pointing.menu .toc.item {
     display: none;
 }
-
-.echart-container {
-    height: 400px;
-}
-#visit-hourly.echart-container {
-    height: 600px;
-}
-#visit-map.echart-container {
-    height: 600px;
-}
-#visit-calendar.echart-container {
-    height: 400px;
-}
-
 
 @media only screen and (max-width: 767px) {
     .ui.fixed.menu {
@@ -112,23 +92,5 @@
     .masthead h2 {
         margin-bottom: 1em;
         font-size: 1.5em;
-    }
-    .ui.stripe.segment {
-        padding: 2em 0em;
-    }
-    .stats.stripe.segment {
-        padding: 0em;
-    }
-    .echart-container {
-        height: 300px;
-    }
-    #visit-hourly.echart-container {
-        height: 400px;
-    }
-    #visit-map.echart-container {
-        height: 400px;
-    }
-    #visit-calendar.echart-container {
-        height: 2300px;
     }
 }
