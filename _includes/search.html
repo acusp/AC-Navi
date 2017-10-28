@@ -1,7 +1,20 @@
 <div class="ui text container">
-    {% if site.data.message.show %}{% if site.data.message.link %}<a class="ui {{ site.data.message.color }} pointing below label" href="{{ site.data.message.link }}" target="_blank">{% if site.data.message.icon %}<i class="{{ site.data.message.icon }} icon"></i>{% endif %}{{ site.data.message.content }}</a>{% else %}<div class="ui {{ site.data.message.color }} pointing below label">{% if site.data.message.icon %}<i class="{{ site.data.message.icon }} icon"></i>{% endif %}{{ site.data.message.content }}</div>{% endif %}{% endif %}
+    {% if site.data.message.show %}
+        {% if site.data.message.link %}
+            <a class="ui {{ site.data.message.color }} pointing below label" href="{{ site.data.message.link }}" target="_blank">
+                {% if site.data.message.icon %}<i class="{{ site.data.message.icon }} icon"></i>{% endif %}
+                {{ site.data.message.content }}
+            </a>
+        {% else %}
+            <div class="ui {{ site.data.message.color }} pointing below label">
+                {% if site.data.message.icon %}<i class="{{ site.data.message.icon }} icon"></i>{% endif %}
+                {{ site.data.message.content }}
+            </div>
+        {% endif %}
+    {% endif %}
     <h1 class="ui inverted header"><i id="logo" class="fa fa-star fa-fw" aria-hidden="true"></i></h1>
     <h2>{{ site.title }}</h2>
+
     <div class="ui inverted fluid left icon right action input" id="search-div">
         <i class="search icon"></i>
         <input id="search-query" type="text" placeholder="立即搜索" autofocus="autofocus">
@@ -10,6 +23,7 @@
         </select>
         <div id="search-button" class="ui icon button">Go</div>
     </div>
+    
     <div class="ui labels shortcuts">
         {% for item in site.data.search_services %}{% if item.shortcut %}<a class="ui {{ item.style }} label" data-search-service-id="{{ item.id }}">{% if item.icon %}<i class="{{ item.icon }} icon"></i>{% endif %}{{ item.shortcut }}</a>{% endif %}{% endfor %}
     </div>

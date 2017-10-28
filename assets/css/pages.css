@@ -1,4 +1,4 @@
-/* security.css */
+/* pages.css */
 
 .hidden.menu {
     display: none;
@@ -64,7 +64,8 @@
 }
 
 .footer.segment {
-    padding: 5em 0em;
+    padding: 3em 0em;
+    text-align: center
 }
 
 .secondary.pointing.menu .toc.item {

@@ -5,6 +5,13 @@
   url: /
   active_key: home
 
+- name: 实用工具
+  icon:
+    name: configure icon
+    color: brown
+  url: /tool/
+  active_key: tool
+
 - name: 安全相关
   icon:
     name: laptop icon
