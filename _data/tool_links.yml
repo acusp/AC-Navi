@@ -5,7 +5,55 @@
     - name: ProcessOn
       style: basic
       url: https://www.processon.com/
-      
+
+    - name: Iconfont
+      style: basic
+      icon: info circle yellow
+      url: http://www.iconfont.cn/
+
     - name: 以图搜图
       style: basic
       url: https://www.tineye.com/
+
+    - name: Everypixel
+      style: basic
+      url: https://everypixel.com/
+
+    - name: 图虫网
+      style: basic
+      url: https://tuchong.com
+
+    - name: Pixabay
+      style: basic
+      url: https://pixabay.com/
+
+    - name: Pexels
+      style: basic
+      url: https://www.pexels.com/
+
+    - name: 500px
+      style: basic
+      url: https://500px.com/
+
+
+  - category: 生活娱乐
+    links:
+    - name: IMDB - 电影数据库
+      style: basic
+      url: http://www.imdb.com/
+
+    - name: 互联网档案馆
+      style: basic
+      url: https://archive.org
+
+    - name: CC 搜索
+      style: basic
+      url: https://search.creativecommons.org/
+
+    - name: 谷歌图书计划
+      style: basic
+      url: https://books.google.com/
+
+    - name: Similar Web
+      style: basic
+      url: https://www.similarweb.com/
