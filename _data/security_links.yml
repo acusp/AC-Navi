@@ -7,6 +7,10 @@
       icon: leaf
       url: http://www.freebuf.com/
 
+    - name: Paper - 安全技术精粹
+      style: green
+      url: https://paper.seebug.org/
+
     - name: 91Ri.org
       style: basic
       url: http://www.91ri.org/

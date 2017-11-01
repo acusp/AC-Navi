@@ -18,3 +18,10 @@
     color: teal
   url: /security/
   active_key: security
+
+- name: 编程相关
+  icon:
+    name: code icon
+    color: origin
+  url: /program/
+  active_key: program

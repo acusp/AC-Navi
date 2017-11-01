@@ -1,0 +1,7 @@
+- section: tutorial
+  categories:
+  - category: 教程
+    links:
+    - name: Linux device driver labs
+      style: basic
+      url: https://linux-kernel-labs.github.io/
