@@ -11,6 +11,10 @@
       style: green
       url: https://paper.seebug.org/
 
+    - name: phrack Inc
+      style: basic
+      url: http://phrack.org/
+
     - name: 91Ri.org
       style: basic
       url: http://www.91ri.org/
