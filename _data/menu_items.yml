@@ -22,6 +22,8 @@
 - name: 编程相关
   icon:
     name: code icon
-    color: origin
+    color: red
   url: /program/
   active_key: program
+
+#red/orange/yellow/olive/green/teal/blue/violet/purple/pink/brown/grey
