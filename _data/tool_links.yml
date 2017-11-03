@@ -57,3 +57,14 @@
     - name: Similar Web
       style: basic
       url: https://www.similarweb.com/
+
+
+  - category: 工作效率
+    links:
+    - name: NoMachine
+      style: basic
+      url: https://www.nomachine.com/download/download&id=1
+
+    - name: gitzip - github目录下载
+      style: basic
+      url: http://kinolien.github.io/gitzip/

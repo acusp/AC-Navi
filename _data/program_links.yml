@@ -5,3 +5,13 @@
     - name: Linux device driver labs
       style: basic
       url: https://linux-kernel-labs.github.io/
+
+  - category: 资源
+    links:
+    - name: 清华大学开源软件镜像站
+      style: basic
+      url: https://mirrors.tuna.tsinghua.edu.cn/
+
+    - name: 中国科学技术大学 Linux 用户协会
+      style: basic
+      url: https://lug.ustc.edu.cn/wiki/
