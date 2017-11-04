@@ -15,10 +15,5 @@ $(document).ready(function () {
     $('.ui.sidebar').sidebar('attach events', '.toc.item');
 });
 
-// loading dimmer
-$('.loading-trigger').click(function () {
-    $('#loading-dimmer').dimmer('show');
-});
-
 // masthead background
 $('.ui.inverted.masthead.segment').addClass('bg' + Math.ceil(Math.random() * 14)).removeClass('zoomed');
