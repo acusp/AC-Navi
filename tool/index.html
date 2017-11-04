@@ -7,7 +7,6 @@ active_key: tool
 
 {% for section in site.data.tool_links %}
     <div class="ui vertical stripe links segment">
-        {% if forloop.first %}{% include page_loading_progress_bar.html %}{% endif %}
         <div class="ui equal width stackable internally celled grid">
             <div class="center aligned row">
                 {% for item in section.categories %}

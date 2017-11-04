@@ -7,16 +7,6 @@ $('#logo').hover(function () {
     $(this).removeClass('fa-spin text-yellow-inverted');
 });
 
-// progress bar
-$('#page-loading-progress').progress({
-    total: 2,
-    onSuccess: function () {
-        $('#page-loading-progress').fadeOut(1000, function () {
-            $('#page-loading-progress').remove();
-        });
-    }
-});
-
 // search
 $('#search-services').dropdown();
 if (Cookies.get('qidian_navi_previous_search_service_option') === undefined || Cookies.get('qidian_navi_previous_search_service_option') === '' || $('#' + Cookies.get('qidian_navi_previous_search_service_option')).length === 0) {
