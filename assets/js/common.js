@@ -28,9 +28,14 @@ $('#page-loading-progress').progress({
     }
 });
 
-document.onreadystatechange = function () {
+$('#page-loading-progress').progress('increment');
+window.onload = function() {
     $('#page-loading-progress').progress('increment');
-    if (document.readyState == "complete") {
-        $('#page-loading-progress').progress('increment');
-    }
 };
+
+// document.onreadystatechange = function () {
+//     $('#page-loading-progress').progress('increment');
+//     if (document.readyState == "complete") {
+//         $('#page-loading-progress').progress('increment');
+//     }
+// };
