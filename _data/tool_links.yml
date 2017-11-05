@@ -102,7 +102,6 @@
       url: http://www.wxapp-union.com/
 
 
-
 - section: tools
   categories:
   - category: 资源搜索
@@ -127,38 +126,37 @@
       style: basic
       url: https://www.similarweb.com/
 
+  - category: 设计
+    links:
+    - name: ProcessOn
+      style: basic
+      url: https://www.processon.com/
 
-    - category: 设计
-      links:
-      - name: ProcessOn
-        style: basic
-        url: https://www.processon.com/
+    - name: Iconfont
+      style: basic
+      icon: info circle yellow
+      url: http://www.iconfont.cn/
 
-      - name: Iconfont
-        style: basic
-        icon: info circle yellow
-        url: http://www.iconfont.cn/
+    - name: 以图搜图
+      style: basic
+      url: https://www.tineye.com/
 
-      - name: 以图搜图
-        style: basic
-        url: https://www.tineye.com/
+    - name: Everypixel
+      style: basic
+      url: https://everypixel.com/
 
-      - name: Everypixel
-        style: basic
-        url: https://everypixel.com/
+    - name: 图虫网
+      style: basic
+      url: https://tuchong.com
 
-      - name: 图虫网
-        style: basic
-        url: https://tuchong.com
+    - name: Pixabay
+      style: basic
+      url: https://pixabay.com/
 
-      - name: Pixabay
-        style: basic
-        url: https://pixabay.com/
+    - name: Pexels
+      style: basic
+      url: https://www.pexels.com/
 
-      - name: Pexels
-        style: basic
-        url: https://www.pexels.com/
-
-      - name: 500px
-        style: basic
-        url: https://500px.com/
+    - name: 500px
+      style: basic
+      url: https://500px.com/
