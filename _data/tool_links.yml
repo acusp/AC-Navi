@@ -1,42 +1,111 @@
-- section: common
+- section: services
   categories:
-  - category: 设计
+  - category: 工作效率
     links:
-    - name: ProcessOn
+    - name: 坚果云
       style: basic
-      url: https://www.processon.com/
+      url: https://www.jianguoyun.com/
 
-    - name: Iconfont
+    - name: worktile
       style: basic
-      icon: info circle yellow
-      url: http://www.iconfont.cn/
+      url: https://worktile.com/
 
-    - name: 以图搜图
+    - name: bearychat(倍洽)
       style: basic
-      url: https://www.tineye.com/
+      url: https://bearychat.com/
 
-    - name: Everypixel
+    - name: Gitter - 社区聊天工具
       style: basic
-      url: https://everypixel.com/
+      url: https://gitter.im/
 
-    - name: 图虫网
+    - name: ProtonMail - 安全邮箱
       style: basic
-      url: https://tuchong.com
+      url: https://protonmail.com/
 
-    - name: Pixabay
+    - name: f.lux - 屏幕色温调整
       style: basic
-      url: https://pixabay.com/
+      url: https://justgetflux.com/
 
-    - name: Pexels
+    - name: Wunderlist - 任务管理工具
       style: basic
-      url: https://www.pexels.com/
+      url: https://www.wunderlist.com/zh/
 
-    - name: 500px
+    - name: Rainy Mood
       style: basic
-      url: https://500px.com/
+      url: http://www.rainymood.com/
+
+    - name: Calm
+      style: basic
+      url: https://www.calm.com/
+
+    - name: TeamViewer
+      style: basic
+      url: https://www.teamviewer.com/zhcn/
+
+    - name: NoMachine - 远程桌面
+      style: basic
+      url: https://www.nomachine.com/download/download&id=1
+
+    - name: gitzip - github目录下载
+      style: basic
+      url: http://kinolien.github.io/gitzip/
+
+    - name: 天眼查 - 企业信息查询
+      style: basic
+      url: https://www.tianyancha.com/
 
 
-  - category: 生活娱乐
+  - category: 在线服务
+    links:
+    -name: 微信公众平台
+      style: basic
+      url: https://mp.weixin.qq.com/
+
+    - name: 芝麻二维码
+      style: basic
+      url: https://www.hotapp.cn/
+
+    - name: 短链接
+      style: basic
+      url: http://tinyurl.com/
+
+    - name: 易点微信编辑器
+      style: basic
+      url: http://www.wxeditor.com/
+
+    - name: 草料二维码生成器
+      style: basic
+      url: https://cli.im/
+
+    - name: MAKA - H5制作
+      style: basic
+      url: http://maka.im/
+
+    - name: 秀米XIUMI - H5制作
+      style: basic
+      url: https://xiumi.us/
+
+    - name: 图灵机器人
+      style: basic
+      url: http://www.tuling123.com/
+
+    - name: 知晓程序
+      style: orange
+      url: https://minapp.com/miniapp/
+
+    - name: 微信小程序
+      style: basic
+      url: https://cloud.tencent.com/solution/la
+
+    - name: 微信小程序联盟
+      style: basic
+      url: http://www.wxapp-union.com/
+
+
+
+- section: tools
+  categories:
+  - category: 资源搜索
     links:
     - name: IMDB - 电影数据库
       style: basic
@@ -59,12 +128,37 @@
       url: https://www.similarweb.com/
 
 
-  - category: 工作效率
-    links:
-    - name: NoMachine
-      style: basic
-      url: https://www.nomachine.com/download/download&id=1
+    - category: 设计
+      links:
+      - name: ProcessOn
+        style: basic
+        url: https://www.processon.com/
 
-    - name: gitzip - github目录下载
-      style: basic
-      url: http://kinolien.github.io/gitzip/
+      - name: Iconfont
+        style: basic
+        icon: info circle yellow
+        url: http://www.iconfont.cn/
+
+      - name: 以图搜图
+        style: basic
+        url: https://www.tineye.com/
+
+      - name: Everypixel
+        style: basic
+        url: https://everypixel.com/
+
+      - name: 图虫网
+        style: basic
+        url: https://tuchong.com
+
+      - name: Pixabay
+        style: basic
+        url: https://pixabay.com/
+
+      - name: Pexels
+        style: basic
+        url: https://www.pexels.com/
+
+      - name: 500px
+        style: basic
+        url: https://500px.com/
