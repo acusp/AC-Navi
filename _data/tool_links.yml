@@ -57,7 +57,7 @@
 
   - category: 在线服务
     links:
-    -name: 微信公众平台
+    - name: 微信公众平台
       style: basic
       url: https://mp.weixin.qq.com/
 
