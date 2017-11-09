@@ -42,6 +42,10 @@
       style: basic
       url: https://www.teamviewer.com/zhcn/
 
+    - name: ZOOM - 视频会议
+      style: basic
+      url: https://zoom.us/
+
     - name: NoMachine - 远程桌面
       style: basic
       url: https://www.nomachine.com/download/download&id=1
