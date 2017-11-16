@@ -42,6 +42,10 @@
       style: basic
       url: https://www.teamviewer.com/zhcn/
 
+    - name: Slides - 在线PPT
+      style: basic
+      url: https://slides.com
+
     - name: ZOOM - 视频会议
       style: basic
       url: https://zoom.us/
@@ -104,6 +108,10 @@
     - name: 微信小程序联盟
       style: basic
       url: http://www.wxapp-union.com/
+
+    - name: Google Earth
+      style: basic
+      url: https://earth.google.com/web/
 
 
 - section: tools
