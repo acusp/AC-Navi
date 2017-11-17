@@ -45,6 +45,14 @@
       icon: apple grey
       url: https://www.apple.com/
 
+    - name: 懒人比价
+      style: basic
+      url: http://lanrenbijia.com/
+
+    - name: 慧慧购物助手
+      style: basic
+      url: http://zhushou.huihui.cn/
+
 
   - category: 工具
     links:
