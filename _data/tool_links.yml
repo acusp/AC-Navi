@@ -137,6 +137,14 @@
       style: basic
       url: https://books.google.com/
 
+    - name: 书语者
+      style: basic
+      url: https://www.shuyuzhe.com/
+
+    - name: Kindle推
+      style: basic
+      url: http://www.kindlepush.com/main
+
     - name: Similar Web
       style: basic
       url: https://www.similarweb.com/
