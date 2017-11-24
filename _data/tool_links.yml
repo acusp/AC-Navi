@@ -133,6 +133,10 @@
       style: basic
       url: https://search.creativecommons.org/
 
+    - name: 云铺子
+      style: basic
+      rul: http://www.yunpuzi.net/
+
     - name: 谷歌图书计划
       style: basic
       url: https://books.google.com/
