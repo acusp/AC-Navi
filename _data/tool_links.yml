@@ -118,9 +118,14 @@
   categories:
   - category: 资源搜索
     links:
+    - name: 我爱分享
+      style: basic
+      url: http://www.wwaaffxx.com/
+
     - name: Free e-Books Download
       style: basic
       url: https://smtebooks.com/
+
     - name: IMDB - 电影数据库
       style: basic
       url: http://www.imdb.com/
