@@ -159,6 +159,10 @@
       style: basic
       url: https://www.processon.com/
 
+    - name: Google Drawing
+      style: basic
+      url: https://docs.google.com/drawings
+
     - name: Iconfont
       style: basic
       icon: info circle yellow
