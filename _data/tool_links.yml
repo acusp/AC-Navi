@@ -196,3 +196,25 @@
     - name: 500px
       style: basic
       url: https://500px.com/
+
+  - category: 浏览器插件
+    links:
+    - name: Infinity新标签页
+      style: basic
+      url: https://chrome.google.com/webstore/detail/infinity-new-tab/dbfmnekepjoapopniengjbcpnbljalfg?hl=zh-CN
+
+    - name: AdBlock
+      style: basic
+      url: https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?hl=zh-CN
+
+    - name: Stylish-为任意网站自定义主题
+      style: basic
+      url: https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=zh-CN
+
+    - name: Pushbullet
+      style: basic
+      url: https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd?hl=zh-CN
+
+    - name: IE tab
+      style: basic
+      url: https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd?hl=zh-CN
