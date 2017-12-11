@@ -15,3 +15,8 @@
     - name: 中国科学技术大学 Linux 用户协会
       style: basic
       url: https://lug.ustc.edu.cn/wiki/
+
+  - category: Software
+    - name: PuTTY
+      style: basic
+      url: https://www.chiark.greenend.org.uk/~sgtatham/putty/
