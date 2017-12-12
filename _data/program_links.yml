@@ -17,6 +17,7 @@
       url: https://lug.ustc.edu.cn/wiki/
 
   - category: Software
+    links:
     - name: PuTTY
       style: basic
       url: https://www.chiark.greenend.org.uk/~sgtatham/putty/
