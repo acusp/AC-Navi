@@ -134,6 +134,10 @@
       style: blue
       url: http://www.zhihu.com/
 
+    - name: Medium
+      style: blue
+      url: https://medium.com/
+
     - name: Stack Overflow
       icon: stack overflow orange
       style: basic
