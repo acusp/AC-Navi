@@ -23,10 +23,16 @@
       style: basic
       url: https://www.secpulse.com/
 
+  - category: 教育
+    links:
+    - name: i春秋
+      style: basic
+      url: https://www.ichunqiu.com
+
 
 - section: CTF
   categories:
-  - category: 综合整理
+  - category: ctf-Info
     links:
     - name: ctf-wiki
       style: basic
@@ -44,7 +50,7 @@
 
 - section: BLOG
   categories:
-  - category: 综合
+  - category: Blog
     links:
     - name: 温酒送诗人
       style: basic
