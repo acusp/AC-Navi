@@ -40,7 +40,7 @@
 
     - name: ctf-all-in
       style: basic
-      url: https://firmianay.gitbooks.io/ctf-all-in-one/
+      url: https://www.gitbook.com/book/firmianay/ctf-all-in-one/details
 
     - name: 赛事 & WP
       style: basic
