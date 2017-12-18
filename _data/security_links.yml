@@ -39,3 +39,13 @@
     - name: 赛事 & WP
       style: basic
       url: http://bobao.360.cn/ctf/index
+
+
+
+- section: BLOG
+  categories:
+  - category: 综合
+    links:
+    - name: 温酒送诗人
+      style: basic
+      url: http://www.51xkx.cn/
