@@ -23,10 +23,16 @@
       style: basic
       url: https://www.secpulse.com/
 
+  - category: 教育
+    links:
+    - name: i春秋
+      style: basic
+      url: https://www.ichunqiu.com
+
 
 - section: CTF
   categories:
-  - category: 综合整理
+  - category: ctf-Info
     links:
     - name: ctf-wiki
       style: basic
@@ -34,8 +40,18 @@
 
     - name: ctf-all-in
       style: basic
-      url: https://firmianay.gitbooks.io/ctf-all-in-one/
+      url: https://www.gitbook.com/book/firmianay/ctf-all-in-one/details
 
     - name: 赛事 & WP
       style: basic
       url: http://bobao.360.cn/ctf/index
+
+
+
+- section: BLOG
+  categories:
+  - category: Blog
+    links:
+    - name: 温酒送诗人
+      style: basic
+      url: http://www.51xkx.cn/

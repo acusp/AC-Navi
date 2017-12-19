@@ -6,7 +6,16 @@
       style: basic
       url: https://linux-kernel-labs.github.io/
 
-  - category: 资源
+  - category: 训练
+    links:
+    - name: 猿圈
+      style: basic
+      url: https://www.oxcoder.com/
+
+
+- section: 资源
+  categories:
+  - category: 站点
     links:
     - name: 清华大学开源软件镜像站
       style: basic
