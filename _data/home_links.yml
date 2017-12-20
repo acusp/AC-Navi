@@ -245,6 +245,10 @@
       style: basic
       url: https://www.znds.com/
 
+    - name: Home Assistant
+      style: basic
+      url: https://home-assistant.io/
+
 
   # - category: 求职
   #   links:
