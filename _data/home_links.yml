@@ -102,6 +102,10 @@
       style: basic
       url: http://www.kuaidi100.com/
 
+    - name: GooglePlay Download
+      style: basic
+      url: http://apk-dl.com/
+
 
   - category: 社交
     links:
