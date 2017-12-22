@@ -73,26 +73,6 @@
       style: basic
       url: http://kinolien.github.io/gitzip/
 
-    - name: QQ邮箱
-      icon: qq black
-      style: basic
-      url: https://mail.qq.com/
-
-    - name: Gmail
-      icon: google red
-      style: basic
-      url: http://mail.google.com/
-
-    - name: 谷歌翻译
-      icon: translate blue
-      style: basic
-      url: https://translate.google.com/
-
-    - name: 百度翻译
-      icon: paw blue
-      style: basic
-      url: http://fanyi.baidu.com/
-
     - name: Inoreader
       style: basic
       url: https://www.inoreader.com/
