@@ -85,6 +85,10 @@
       style: basic
       url: https://cli.im/
 
+    - name: Convertio-文件转换器
+      style: basic
+      url: https://convertio.co/zh/
+
     - name: MAKA - H5制作
       style: basic
       url: http://maka.im/
