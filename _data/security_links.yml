@@ -46,15 +46,11 @@
       style: basic
       url: http://bobao.360.cn/ctf/index
 
-
-- section: Hack
-  categories:
   - category: 会议
     links:
     - name: CCC
       style: basic
       url: https://media.ccc.de/
-
 
 
 - section: BLOG
