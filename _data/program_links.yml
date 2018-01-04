@@ -1,13 +1,21 @@
 - section: tutorial
   categories:
-  - category: 教程
+  - category: 教学
     links:
     - name: Linux device driver labs
       style: basic
       url: https://linux-kernel-labs.github.io/
 
-  - category: 训练
+  - category: Coding
     links:
+    - name: HackerRank
+      style: basic
+      url: https://www.hackerrank.com/
+
+    - name: leetcode
+      style: basic
+      url: https://leetcode.com/
+
     - name: 猿圈
       style: basic
       url: https://www.oxcoder.com/
