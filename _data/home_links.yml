@@ -99,10 +99,10 @@
       style: basic
       url: http://wx.qq.com/
 
-    - name: 百度贴吧
+    - name: V2EX
       icon: paw blue
       style: basic
-      url: http://tieba.baidu.com/
+      url: https://www.v2ex.com/
 
     - name: Facebook
       icon: facebook blue
@@ -232,27 +232,3 @@
     - name: Home Assistant
       style: basic
       url: https://home-assistant.io/
-
-
-  # - category: 求职
-  #   links:
-  #   - name: 大街网
-  #     style: basic
-  #     url: http://www.dajie.com/
-  #
-  #   - name: 拉勾网
-  #     style: basic
-  #     url: http://www.lagou.com/
-  #
-  #   - name: 智联招聘
-  #     style: basic
-  #     url: http://zhaopin.com/
-  #
-  #   - name: 前程无忧
-  #     style: basic
-  #     url: http://www.51job.com/
-  #
-  #   - name: LinkedIn
-  #     icon: linkedin blue
-  #     style: basic
-  #     url: http://www.linkedin.com/
