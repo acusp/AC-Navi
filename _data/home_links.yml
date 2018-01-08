@@ -86,6 +86,10 @@
       style: basic
       url: http://apk-dl.com/
 
+    - name: AirDroid
+      style: basic
+      url: http://web.airdroid.com/
+
 
   - category: 社交
     links:
