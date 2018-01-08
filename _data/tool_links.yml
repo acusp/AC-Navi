@@ -63,6 +63,17 @@
       url: https://www.tianyancha.com/
 
 
+  - category: 移动生活
+    links:
+    - name: Apowersoft
+      style: basic
+      url: https://www.apowersoft.cn/
+
+    - name: AirDroid
+      style: basic
+      url: http://web.airdroid.com/
+
+
   - category: 在线服务
     links:
     - name: 微信公众平台
