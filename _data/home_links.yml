@@ -211,9 +211,9 @@
       style: basic
       url: http://www.acfun.tv/
 
-    - name: 腾讯动漫
+    - name: 面包网
       style: basic
-      url: http://ac.qq.com/
+      url: https://www.mianbao99.com/
 
     - name: 虾米
       style: basic
