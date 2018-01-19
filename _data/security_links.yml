@@ -52,6 +52,9 @@
       style: basic
       url: https://media.ccc.de/
 
+    - name: POC
+      style: basic
+      url: http://powerofcommunity.net/
 
 - section: BLOG
   categories:
