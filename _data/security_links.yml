@@ -56,6 +56,10 @@
       style: basic
       url: http://powerofcommunity.net/
 
+    - name: CheckPoint
+      style: basic
+      url: https://research.checkpoint.com/
+
 - section: BLOG
   categories:
   - category: Blog
