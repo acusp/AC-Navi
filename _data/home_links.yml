@@ -228,6 +228,10 @@
       style: basic
       url: https://www.znds.com/
 
+    - name: CCTV13
+      style: basic
+      url: http://tv.cctv.com/live/cctv13/
+
     - name: Home Assistant
       style: basic
       url: https://home-assistant.io/
