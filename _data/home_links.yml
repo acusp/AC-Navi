@@ -86,6 +86,10 @@
       style: basic
       url: http://apk-dl.com/
 
+    - name: 12306bypass
+      style: basic
+      url: http://www.12306bypass.com/index.html
+
 
   - category: 社交
     links:
