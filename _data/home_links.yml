@@ -90,6 +90,10 @@
       style: basic
       url: http://www.12306bypass.com/index.html
 
+    - name: 小森林导航
+      style: basic
+      rul: http://hao.xsldh.com/
+
 
   - category: 社交
     links:
