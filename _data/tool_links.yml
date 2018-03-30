@@ -173,6 +173,14 @@
       style: basic
       url: https://www.similarweb.com/
 
+    - name: 西林街搜索
+      style: basic
+      url: http://www.xilinjie.com/
+
+    - name: 西林街搜索
+      style: basic
+      url: http://www.xilinjie.com/
+
   - category: 设计
     links:
     - name: ProcessOn
@@ -222,6 +230,10 @@
 
   - category: 浏览器插件
     links:
+    - name: 插件网
+      style: blue
+      url: http://www.cnplugins.com/
+
     - name: Infinity新标签页
       style: basic
       url: https://chrome.google.com/webstore/detail/infinity-new-tab/dbfmnekepjoapopniengjbcpnbljalfg?hl=zh-CN
