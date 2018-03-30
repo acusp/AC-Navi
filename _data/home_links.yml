@@ -16,7 +16,7 @@
 
     - name: 当当
       style: basic
-      url: https://www.dangdang.com/
+      url: http://www.dangdang.com/
 
     - name: China-pub
       style: basic
