@@ -1,4 +1,4 @@
-- section: services
+- section: tools-1
   categories:
   - category: 工作效率
     links:
@@ -63,17 +63,6 @@
       url: https://www.tianyancha.com/
 
 
-  - category: 移动生活
-    links:
-    - name: Apowersoft
-      style: basic
-      url: https://www.apowersoft.cn/
-
-    - name: AirDroid
-      style: basic
-      url: http://web.airdroid.com/
-
-
   - category: 在线服务
     links:
     - name: 微信公众平台
@@ -128,9 +117,6 @@
       style: basic
       url: https://earth.google.com/web/
 
-
-- section: tools
-  categories:
   - category: 资源搜索
     links:
     - name: 我爱分享
@@ -181,6 +167,9 @@
       style: basic
       url: http://www.xilinjie.com/
 
+
+- section: tools-2
+  categories:
   - category: 设计
     links:
     - name: ProcessOn
@@ -253,3 +242,22 @@
     - name: IE tab
       style: basic
       url: https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd?hl=zh-CN
+
+  - category: 移动生活
+    links:
+    - name: Apowersoft
+      style: basic
+      url: https://www.apowersoft.cn/
+
+    - name: AirDroid
+      style: basic
+      url: http://web.airdroid.com/
+
+
+- section: tools-3
+  categories:
+  - category: 学习辅助
+    links:
+    - name: 背个X啊
+      style: basic
+      url: https://acusp.info/recite-assistant/
