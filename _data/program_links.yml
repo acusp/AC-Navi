@@ -26,7 +26,7 @@
   - category: 社区
     links:
     - name: 掘金
-      style: basic
+      style: blue
       url: https://juejin.im
 
     - name: 清华大学开源软件镜像站
