@@ -23,8 +23,12 @@
 
 - section: 资源
   categories:
-  - category: 站点
+  - category: 社区
     links:
+    - name: 掘金
+      style: basic
+      url: https://juejin.im
+
     - name: 清华大学开源软件镜像站
       style: basic
       url: https://mirrors.tuna.tsinghua.edu.cn/
