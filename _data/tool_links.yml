@@ -223,6 +223,10 @@
       style: blue
       url: http://www.cnplugins.com/
 
+    - name: chrome插件
+      style: basic
+      url: http://chromecj.com/
+
     - name: Infinity新标签页
       style: basic
       url: https://chrome.google.com/webstore/detail/infinity-new-tab/dbfmnekepjoapopniengjbcpnbljalfg?hl=zh-CN
@@ -245,6 +249,26 @@
 
   - category: 移动生活
     links:
+    - name: 最美应用
+      style: basic
+      url: http://zuimeia.com/
+
+    - name: 酷安网
+      style: red
+      url: https://www.coolapk.com/
+
+    - name: 豌豆荚
+      style: basic
+      url: http://www.wandoujia.com/
+
+    - name: Google Play
+      style: basic
+      url: https://play.google.com/store/apps
+
+    - name: GooglePlay Download
+      style: basic
+      url: http://apk-dl.com/
+
     - name: Apowersoft
       style: basic
       url: https://www.apowersoft.cn/
