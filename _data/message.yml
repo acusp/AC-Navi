@@ -2,5 +2,5 @@ show: true
 content: 授之以渔
 color: black
 icon: comment
-link: false
-#link: "https://blog.acusp.info"
+#link: false
+link: "https://blog.acusp.info"
