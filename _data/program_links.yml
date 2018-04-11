@@ -8,13 +8,21 @@
 
   - category: Coding
     links:
+    - name: LeetCode
+      style: basic
+      url: https://leetcode.com/
+
+    - name: LintCode
+      style: basic
+      url: http://www.lintcode.com/ladder/
+
+    - name: 九章算法
+      style: basic
+      rul: http://www.jiuzhang.com/solution/
+
     - name: HackerRank
       style: basic
       url: https://www.hackerrank.com/
-
-    - name: leetcode
-      style: basic
-      url: https://leetcode.com/
 
     - name: 猿圈
       style: basic
