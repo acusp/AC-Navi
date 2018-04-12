@@ -146,6 +146,10 @@
       style: basic
       url: http://segmentfault.com/
 
+    - name: Meme
+      style: basic
+      url: http://knowyourmeme.com/
+
 
   - category: 学习
     links:
@@ -197,6 +201,10 @@
     - name: 腾讯视频
       style: basic
       url: https://v.qq.com/
+
+    - name: NetFlix
+      style: basic
+      url: https://www.netflix.com/browse
 
     - name: Youtube
       icon: youtube red
