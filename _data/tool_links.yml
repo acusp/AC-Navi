@@ -135,6 +135,10 @@
       style: basic
       url: http://www.00com.org/
 
+    - name: 鸠摩搜书
+      style: basic
+      url: https://www.jiumodiary.com/
+
     - name: 计算机书籍控
       style: basic
       url: http://bestcbooks.com/
