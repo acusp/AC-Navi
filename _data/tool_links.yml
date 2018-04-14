@@ -119,53 +119,53 @@
 
   - category: 资源搜索
     links:
-    - name: 我爱分享
+    - name: 我的小书屋
       style: basic
-      url: http://www.wwaaffxx.com/
-
-    - name: Free e-Books Download
-      style: basic
-      url: https://smtebooks.com/
-
-    - name: IMDB - 电影数据库
-      style: basic
-      url: http://www.imdb.com/
-
-    - name: 互联网档案馆
-      style: basic
-      url: https://archive.org
-
-    - name: CC 搜索
-      style: basic
-      url: https://search.creativecommons.org/
-
-    - name: 云铺子
-      style: basic
-      rul: http://www.yunpuzi.net/
-
-    - name: 谷歌图书计划
-      style: basic
-      url: https://books.google.com/
-
-    - name: 书语者
-      style: basic
-      url: https://www.shuyuzhe.com/
+      url: http://mebook.cc/
 
     - name: Kindle推
       style: basic
       url: http://www.kindlepush.com/main
 
+    - name: 书语者
+      style: basic
+      url: https://www.shuyuzhe.com/
+
+    - name: 收藏家
+      style: basic
+      url: http://www.00com.org/
+
+    - name: 计算机书籍控
+      style: basic
+      url: http://bestcbooks.com/
+
+    - name: Free e-Books Download
+      style: basic
+      url: https://smtebooks.com/
+
+    - name: CC 搜索
+      style: basic
+      url: https://search.creativecommons.org/
+
+    - name: 谷歌图书计划
+      style: basic
+      url: https://books.google.com/
+
+    - name: 云铺子
+      style: basic
+      url: http://www.yunpuzi.net/
+
+    - name: 西林街搜索
+      style: basic
+      url: http://www.xilinjie.com/
+
+    - name: 互联网档案馆
+      style: basic
+      url: https://archive.org
+
     - name: Similar Web
       style: basic
       url: https://www.similarweb.com/
-
-    - name: 西林街搜索
-      style: basic
-      url: http://www.xilinjie.com/
-
-    - name: 西林街搜索
-      style: basic
-      url: http://www.xilinjie.com/
 
 
 - section: tools-2
