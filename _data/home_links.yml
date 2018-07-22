@@ -147,17 +147,9 @@
       style: basic
       url: https://study.163.com/
 
-    - name: 中国大学MOOC
-      style: basic
-      url: http://www.icourse163.org/
-
     - name: 学堂在线
       style: basic
       url: http://www.xuetangx.com/
-
-    - name: 网易公开课
-      style: basic
-      url: http://open.163.com/
 
     - name: Coursera
       style: basic
@@ -172,11 +164,11 @@
       style: basic
       url: http://www.w3school.com.cn/
 
-    - name: Tutorials Point
+    - name: TutorialsPoint
       style: basic
       url: https://www.tutorialspoint.com/
 
-    - name: 人人都是产品经理
+    - name: 产品经理
       style: basic
       url: http://www.woshipm.com/
 
