@@ -32,11 +32,7 @@
       style: basic
       url: https://www.uniqlo.cn/
 
-    - name: 无印良品
-      style: basic
-      url: https://www.muji.com.cn/
-
-    - name: IKEA
+    - name: 宜家
       style: basic
       url: https://www.ikea.com/cn/zh/
 
@@ -116,11 +112,6 @@
       style: basic
       url: http://www.facebook.com/
 
-    - name: GitHub
-      icon: github black
-      style: basic
-      url: http://github.com/
-
     - name: 简书
       style: basic
       url: http://www.jianshu.com/
@@ -178,11 +169,6 @@
       icon: code blue
       url: http://www.imooc.com/
 
-    - name: 实验楼
-      style: basic
-      icon: lab
-      url: https://www.shiyanlou.com/
-
     - name: W3School
       style: basic
       url: http://www.w3school.com.cn/
@@ -190,6 +176,10 @@
     - name: Tutorials Point
       style: basic
       url: https://www.tutorialspoint.com/
+
+    - name: 人人都是产品经理
+      style: basic
+      url: http://www.woshipm.com/
 
 
   - category: 娱乐
