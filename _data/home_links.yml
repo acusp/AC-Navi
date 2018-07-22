@@ -107,10 +107,9 @@
       style: basic
       url: https://www.v2ex.com/
 
-    - name: Facebook
-      icon: facebook blue
+    - name: 豆瓣
       style: basic
-      url: http://www.facebook.com/
+      url: https://www.douban.com/
 
     - name: 简书
       style: basic
