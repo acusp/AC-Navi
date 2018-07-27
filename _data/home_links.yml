@@ -28,14 +28,6 @@
       style: basic
       url: https://www.amazon.cn/
 
-    - name: 优衣库
-      style: basic
-      url: https://www.uniqlo.cn/
-
-    - name: 宜家
-      style: basic
-      url: https://www.ikea.com/cn/zh/
-
     - name: Apple
       style: basic
       icon: apple grey

@@ -123,10 +123,6 @@
       style: basic
       url: http://mebook.cc/
 
-    - name: Kindle推
-      style: basic
-      url: http://www.kindlepush.com/main
-
     - name: 书语者
       style: basic
       url: https://www.shuyuzhe.com/
