@@ -28,6 +28,10 @@
       style: basic
       url: https://www.amazon.cn/
 
+    - name: PayPal
+      style: basic
+      rul: https://www.paypal.com/c2/webapps/mpp/home
+
     - name: Apple
       style: basic
       icon: apple grey

@@ -119,9 +119,17 @@
 
   - category: 资源搜索
     links:
+    - name: 书伴
+      style: basic
+      url: https://bookfere.com/
+
     - name: 我的小书屋
       style: basic
       url: http://mebook.cc/
+
+    - name: 电子书柜
+      style: basic
+      url: https://bookset.me/
 
     - name: 书语者
       style: basic
