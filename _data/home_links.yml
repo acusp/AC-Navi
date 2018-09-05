@@ -208,6 +208,10 @@
       style: basic
       url: http://ifkdy.com/
 
+    - name: IKE.TV
+      style: basic
+      url: https://www.ike.tv/
+
     - name: 虾米
       style: basic
       url: http://www.xiami.com/
