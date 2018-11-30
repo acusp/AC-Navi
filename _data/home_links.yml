@@ -168,6 +168,10 @@
       style: basic
       url: http://www.woshipm.com/
 
+    - name: CC协议
+      style: basic
+      url: https://creativecommons.org/choose/?lang=zh
+
 
   - category: 娱乐
     links:
