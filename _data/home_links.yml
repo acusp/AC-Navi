@@ -61,6 +61,10 @@
       style: basic
       url: http://asciiflow.com/
 
+    - name: carbon
+      style: basic
+      url: https://carbon.now.sh
+
     - name: gitzip - github目录下载
       style: basic
       url: http://kinolien.github.io/gitzip/
