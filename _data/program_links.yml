@@ -1,5 +1,11 @@
 - section: tutorial
   categories:
+  - category: 工具
+    links:
+    - name: 开源社区
+      style: basic
+      url: http://tool.oschina.net/
+
   - category: 教学
     links:
     - name: Linux device driver labs
