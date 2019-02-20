@@ -124,10 +124,6 @@
       style: basic
       url: http://www.yyyweb.com
 
-    - name: |
-      style: basic
-      url:
-
-    - name: 生产占位图片
+    - name: 占位图片
       style: basic
       url: https://placem.at/
