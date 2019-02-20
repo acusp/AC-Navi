@@ -112,6 +112,10 @@
       style: basic
       url: https://mp.weixin.qq.com
 
+    - name: 腾讯企业邮箱
+      style: basic
+      url: https://exmail.qq.com
+
     - name: V2EX
       style: basic
       url: https://www.v2ex.com/
