@@ -107,6 +107,11 @@
       style: basic
       url: http://wx.qq.com/
 
+    - name: 微信公众平台
+      icon: wechat green
+      style: basic
+      url: https://mp.weixin.qq.com
+
     - name: V2EX
       style: basic
       url: https://www.v2ex.com/
