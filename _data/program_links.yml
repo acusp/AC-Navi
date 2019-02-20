@@ -86,6 +86,16 @@
       style: basic
       url: https://www.chiark.greenend.org.uk/~sgtatham/putty/
 
+  - category: Blog
+    links:
+    - name: 温酒送诗人
+      style: basic
+      url: http://www.51xkx.cn/
+
+    - name: 编码美丽
+      style: basic
+      url: http://www.wjdiankong.cn/
+
 
 - section: 3-line
 
@@ -104,13 +114,13 @@
       style: basic
       url: https://www.anquanke.com/
 
-
-  - category: Blog
+  - category: web
     links:
-    - name: 温酒送诗人
+    - name: roadmap
       style: basic
-      url: http://www.51xkx.cn/
+      rul: https://github.com/kamranahmedse/developer-roadmap
 
-    - name: 编码美丽
+    - name: 前端里
       style: basic
-      url: http://www.wjdiankong.cn/
+      url: http://www.yyyweb.com
+
