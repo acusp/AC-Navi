@@ -96,6 +96,10 @@
       style: basic
       url: http://www.wjdiankong.cn/
 
+    - name: css-tricks
+      style: basic
+      url: https://css-tricks.com/
+
 
 - section: 3-line
 

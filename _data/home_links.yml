@@ -185,6 +185,10 @@
       style: basic
       url: http://www.woshipm.com/
 
+    - name: 伯乐在线
+      style: basic
+      url: http://web.jobbole.com/
+
     - name: CC协议
       style: basic
       url: https://creativecommons.org/choose/?lang=zh
