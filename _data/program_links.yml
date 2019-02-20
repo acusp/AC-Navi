@@ -1,8 +1,8 @@
-- section: tutorial
+- section: 1-line
   categories:
   - category: 工具
     links:
-    - name: 开源社区
+    - name: 在线工具
       style: basic
       url: http://tool.oschina.net/
 
@@ -15,6 +15,10 @@
     - name: Linux device driver labs
       style: basic
       url: https://linux-kernel-labs.github.io/
+
+    - name: i春秋
+      style: basic
+      url: https://www.ichunqiu.com
 
   - category: Coding
     links:
@@ -39,7 +43,7 @@
       url: https://www.oxcoder.com/
 
 
-- section: 资源
+- section: 2-line
   categories:
   - category: 社区
     links:
@@ -55,8 +59,59 @@
       style: basic
       url: https://lug.ustc.edu.cn/wiki/
 
+    - name: Freebuf
+      style: green
+      icon: leaf
+      url: http://www.freebuf.com/
+
+    - name: Paper - 安全技术精粹
+      style: green
+      url: https://paper.seebug.org/
+
+    - name: phrack Inc
+      style: basic
+      url: http://phrack.org/
+
+    - name: 91Ri.org
+      style: basic
+      url: http://www.91ri.org/
+
+    - name: 安全脉搏
+      style: basic
+      url: https://www.secpulse.com/
+
   - category: Software
     links:
     - name: PuTTY
       style: basic
       url: https://www.chiark.greenend.org.uk/~sgtatham/putty/
+
+
+- section: 3-line
+
+- section: security
+  categories:
+  - category: ctf-Info
+    links:
+    - name: ctf-wiki
+      style: basic
+      url: https://ctf-wiki.github.io/ctf-wiki/#/
+
+    - name: ctf-all-in
+      style: basic
+      url: https://www.gitbook.com/book/firmianay/ctf-all-in-one/details
+
+    - name: 安全客
+      style: basic
+      url: https://www.anquanke.com/
+
+
+  - category: Blog
+    links:
+    - name: 温酒送诗人
+      style: basic
+      url: http://www.51xkx.cn/
+
+    - name: 编码美丽
+      style: basic
+      url: http://www.wjdiankong.cn/
