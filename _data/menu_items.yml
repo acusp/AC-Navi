@@ -12,13 +12,6 @@
   url: /tool/
   active_key: tool
 
-- name: 安全相关
-  icon:
-    name: laptop icon
-    color: teal
-  url: /security/
-  active_key: security
-
 - name: 编程相关
   icon:
     name: code icon
