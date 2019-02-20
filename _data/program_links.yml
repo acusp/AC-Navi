@@ -89,9 +89,8 @@
 
 - section: 3-line
 
-- section: security
   categories:
-  - category: ctf-Info
+  - category: security
     links:
     - name: ctf-wiki
       style: basic
