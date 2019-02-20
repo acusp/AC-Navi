@@ -28,6 +28,10 @@
       style: basic
       url: https://www.amazon.cn/
 
+    - name: 孔夫子旧书网
+      style: basic
+      url: http://www.kongfz.com/
+
     - name: PayPal
       style: basic
       rul: https://www.paypal.com/c2/webapps/mpp/home
