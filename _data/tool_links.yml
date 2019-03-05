@@ -231,6 +231,10 @@
       style: basic
       url: http://chromecj.com/
 
+    - name: GreasyFork
+      style: basic
+      url: https://greasyfork.org/zh-CN
+
     - name: Infinity新标签页
       style: basic
       url: https://chrome.google.com/webstore/detail/infinity-new-tab/dbfmnekepjoapopniengjbcpnbljalfg?hl=zh-CN
