@@ -34,7 +34,7 @@
 
     - name: PayPal
       style: basic
-      rul: https://www.paypal.com/c2/webapps/mpp/home
+      url: https://www.paypal.com/c2/webapps/mpp/home
 
     - name: Apple
       style: basic
