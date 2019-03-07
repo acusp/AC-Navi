@@ -152,10 +152,6 @@
 
   - category: 学习
     links:
-    - name: MOOC学院
-      style: olive
-      url: http://mooc.guokr.com/
-
     - name: 网易云课堂
       style: basic
       url: https://study.163.com/
