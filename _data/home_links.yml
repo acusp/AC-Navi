@@ -56,11 +56,6 @@
       style: basic
       url: https://www.processon.com/
 
-    - name: Iconfont
-      style: basic
-      icon: info circle yellow
-      url: http://www.iconfont.cn/
-
     - name: asciiflow
       style: basic
       url: http://asciiflow.com/
@@ -69,7 +64,7 @@
       style: basic
       url: https://carbon.now.sh
 
-    - name: gitzip - github目录下载
+    - name: github目录下载
       style: basic
       url: http://kinolien.github.io/gitzip/
 
@@ -93,6 +88,10 @@
     - name: 小森林导航
       style: basic
       url: http://xsldh.com/
+
+    - name: WolframAlpha
+      style: basic
+      url: https://www.wolframalpha.com/
 
 
   - category: 社交
