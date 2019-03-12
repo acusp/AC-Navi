@@ -77,7 +77,7 @@
       style: basic
       url: http://www.kuaidi100.com/
 
-    - name: GooglePlay Download
+    - name: ApkDownload
       style: basic
       url: http://apk-dl.com/
 
