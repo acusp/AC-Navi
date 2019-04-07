@@ -131,6 +131,10 @@
       style: blue
       url: http://www.zhihu.com/
 
+    - name: 长毛象中文站
+      style: basic
+      url: https://cmx.im/
+
     - name: Medium
       style: blue
       url: https://medium.com/
