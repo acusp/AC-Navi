@@ -12,10 +12,7 @@
         {% include search.html %}
     {% else %}
         <div class="ui text container">
-            {% if page.active_key == 'security' %}
-                <h1 class="ui inverted header"><i class="laptop icon"></i>安全相关</h1>
-                <h2>Hacking everything，Everything is hacking</h2>
-            {% elsif page.active_key == 'tool' %}
+            {% if page.active_key == 'tool' %}
                 <h1 class="ui inverted header"><i class="configure icon"></i>实用工具</h1>
                 <h2>工欲善其事，必先利其器</h2>
             {% elsif page.active_key == 'program' %}
