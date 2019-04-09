@@ -93,6 +93,10 @@
       style: basic
       url: https://www.wolframalpha.com/
 
+    - name: Md2All
+      style: green
+      url: http://md.aclickall.com/
+
 
   - category: 社交
     links:
