@@ -176,9 +176,17 @@
       icon: code blue
       url: http://www.imooc.com/
 
-    - name: W3School
+    - name: 菜鸟教程
       style: basic
-      url: http://www.w3school.com.cn/
+      url: http://www.runoob.com/
+
+    - name: 极客学院
+      style: basic
+      url: http://wiki.jikexueyuan.com/
+
+    - name: 牛客网
+      style: basic
+      url: https://www.nowcoder.com
 
     - name: TutorialsPoint
       style: basic
