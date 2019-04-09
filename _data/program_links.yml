@@ -131,3 +131,7 @@
     - name: 占位图片
       style: basic
       url: https://placem.at/
+
+    - name: CodePen
+      style: basic
+      url: https://codepen.io/
