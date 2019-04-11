@@ -115,10 +115,6 @@
       style: basic
       url: https://mp.weixin.qq.com
 
-    - name: 腾讯企业邮箱
-      style: basic
-      url: https://exmail.qq.com
-
     - name: V2EX
       style: basic
       url: https://www.v2ex.com/
@@ -147,18 +143,13 @@
       style: blue
       url: https://medium.com/
 
-    - name: Stack Overflow
-      icon: stack overflow orange
-      style: basic
-      url: http://stackoverflow.com/
-
-    - name: SegmentFault
-      style: basic
-      url: http://segmentfault.com/
-
     - name: Meme
       style: basic
       url: http://knowyourmeme.com/
+
+    - name: reddit
+      style: basic
+      url: https://www.reddit.com/
 
 
   - category: 学习
@@ -204,9 +195,15 @@
       style: basic
       url: http://web.jobbole.com/
 
-    - name: CC协议
+    - name: Stack Overflow
+      icon: stack overflow orange
       style: basic
-      url: https://creativecommons.org/choose/?lang=zh
+      url: http://stackoverflow.com/
+
+    - name: SegmentFault
+      style: basic
+      url: http://segmentfault.com/
+
 
 
   - category: 娱乐
