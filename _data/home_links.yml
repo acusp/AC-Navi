@@ -64,10 +64,6 @@
       style: basic
       url: https://carbon.now.sh
 
-    - name: github目录下载
-      style: basic
-      url: http://kinolien.github.io/gitzip/
-
     - name: Inoreader
       style: basic
       url: https://www.inoreader.com/
@@ -166,34 +162,13 @@
       style: basic
       url: https://www.coursera.org/
 
-    - name: 慕课网
+    - name: KhanAcademy
       style: basic
-      icon: code blue
-      url: http://www.imooc.com/
+      url: https://www.khanacademy.org/
 
-    - name: 菜鸟教程
+    - name: codewars
       style: basic
-      url: http://www.runoob.com/
-
-    - name: 极客学院
-      style: basic
-      url: http://wiki.jikexueyuan.com/
-
-    - name: 牛客网
-      style: basic
-      url: https://www.nowcoder.com
-
-    - name: TutorialsPoint
-      style: basic
-      url: https://www.tutorialspoint.com/
-
-    - name: 产品经理
-      style: basic
-      url: http://www.woshipm.com/
-
-    - name: 伯乐在线
-      style: basic
-      url: http://web.jobbole.com/
+      url: https://www.codewars.com
 
     - name: Stack Overflow
       icon: stack overflow orange
@@ -203,6 +178,26 @@
     - name: SegmentFault
       style: basic
       url: http://segmentfault.com/
+
+    - name: 菜鸟教程
+      style: basic
+      url: http://www.runoob.com/
+
+    - name: 极客学院
+      style: basic
+      url: http://wiki.jikexueyuan.com/
+
+    - name: 产品经理
+      style: basic
+      url: http://www.woshipm.com/
+
+    - name: 伯乐在线
+      style: basic
+      url: http://web.jobbole.com/
+
+    - name: 掘金
+      style: basic
+      url: https://juejin.im/
 
 
 
