@@ -129,6 +129,7 @@
 
     - name: 即刻
       style: basic
+      icon: orange
       url: https://web.okjike.com
 
     - name: 长毛象中文站
