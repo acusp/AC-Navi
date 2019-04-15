@@ -128,8 +128,7 @@
       url: http://www.zhihu.com/
 
     - name: 即刻
-      style: basic
-      icon: orange
+      style: yellow
       url: https://web.okjike.com
 
     - name: 长毛象中文站
