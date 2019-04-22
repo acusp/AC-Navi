@@ -256,9 +256,9 @@
       icon: music
       url: http://music.163.com/
 
-    - name: 智能电视
+    - name: 低端影视
       style: basic
-      url: https://www.znds.com/
+      url: http://ddrk.me/
 
     - name: CCTV13
       style: basic
